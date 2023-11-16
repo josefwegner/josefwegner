@@ -2,7 +2,9 @@
 
 - 👀 I’m interested in Electronics, Computers, RPGs and Martial Arts.
 
-- 🌱 I’m currently learning C, MicroPython, and Fritzing
+- 🌱 I’m currently learning Electronics, Rust and Cobol
+
+- 🛠️ And I'm working on Amiga software and radios
 
 <!---
 josefwegner/josefwegner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
